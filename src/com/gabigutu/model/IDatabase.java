@@ -1,4 +1,4 @@
-package com.gabigutu;
+package com.gabigutu.model;
 
 public interface IDatabase {
 
